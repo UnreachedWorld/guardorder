@@ -1,0 +1,5 @@
+[
+  {"guard": "recoverSignedOut()", "action": "return draftOnly()"},
+  {"guard": "staleNavigation()", "action": "navigate("},
+  {"guard": "confirm_session()", "action": "insert_row()"}
+]
