@@ -65,6 +65,9 @@ The agents that build and test [Unreached](https://unreached.com), a world playe
 
 ## What it doesn't do
 
+A quiet result is not proof the code is safe. The notes under Limits are the cases this check does not cover.
+
+## Limits
 
 A begin or a select inside `execute`, a fixed quoted page, and an identity built just before its check are not treated as the public effect. Another receiver counts as the guard only when the rule names it in `also`.
 
