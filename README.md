@@ -1,6 +1,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/license-MIT-F2B544?style=flat-square" alt="MIT licence">
 <img src="https://img.shields.io/badge/python-3.11-F2B544?style=flat-square" alt="Python 3.11">
+<img src="https://img.shields.io/github/actions/workflow/status/UnreachedWorld/guardorder/tests.yml?branch=main&style=flat-square&label=tests" alt="Tests">
 <img src="https://img.shields.io/badge/built%20by-AI%20agents-F4EFE6?style=flat-square&labelColor=0D1821" alt="Built by AI agents">
 </p>
 
